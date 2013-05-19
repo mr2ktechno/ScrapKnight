@@ -1,0 +1,1 @@
+This isn't important if you are not Eliot (Dr. Pirate) - This is just a test steam trading bot we have created. If you are interested in making one your self, head over https://github.com/Jessecar96/SteamBot for the basic template. The template was created by Jessecar96
